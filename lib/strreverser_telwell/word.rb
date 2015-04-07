@@ -1,9 +1,7 @@
-# lib/strreverser_telwell/word.rb
-
 module StrreverserTelwell
 class Word
-  def self.reversify
-    self.reverse
+  def reversify(word)
+    word.reverse
   end
 end
 end
