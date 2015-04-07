@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Trevor Elwell"]
   spec.email         = ["me@trevorelwell.com"]
 
-  spec.summary       = "This is my first Gem I'll be building for VCS."
+  spec.summary       = "This is my first Gem I'll be building for VCS. Need to add something."
   spec.description   = "This is my first Gem I'll be building for Viking Code School. I hope to build many more someday soon."
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
