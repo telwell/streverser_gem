@@ -1,6 +1,6 @@
 module StrreverserTelwell
 class Word
-  def reversify(word)
+  def self.reversify(word)
     word.reverse
   end
 end
